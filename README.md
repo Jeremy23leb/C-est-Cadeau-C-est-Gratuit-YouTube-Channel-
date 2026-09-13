@@ -5,6 +5,7 @@
 I built and monetized a YouTube channel from scratch, growing it to 25,000+ subscribers and turning it into a recurring commercial acquisition channel.
 
 **Channel:** https://www.youtube.com/@CestcadeauCestgratuit 
+
 **Media Kit:** https://canva.link/tcm2zth1fl136wg
 
 ## What I Did

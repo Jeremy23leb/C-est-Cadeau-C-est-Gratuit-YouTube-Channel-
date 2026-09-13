@@ -10,14 +10,13 @@ I built and monetized a YouTube channel from scratch, growing it to 25,000+ subs
 
 ## What I Did
 
-* Built the channel from scratch and grew it to 23K+ subscribers
+* Built the channel from scratch and grew it to 25K+ subscribers
 * Developed an evergreen content strategy focused on search-driven topics
 * Produced and managed approximately 10 long-form videos per month on average
 * Managed the full content production process, including research, scripting, recording, editing and publishing
 * Optimized videos for YouTube SEO, CTR and audience retention
-* Negotiated paid sponsorships and affiliate partnerships
-* Built a recurring partnership with LesFurets through cold outreach
-* Grew the partnership from an initial test of 3 videos to nearly 20 sponsored videos
+* Negotiated paid sponsorships (PayFit, MeilleurTaux, 3CX, Zilo Energie...) and affiliate partnerships (NordVPN, Bankin', ProtonVPN, Tiime...) 
+* Built a recurring partnership with LesFurets through cold outreach. Grew the partnership from an initial test of 3 videos to nearly 20 sponsored videos
 
 ## Commercial Experience
 
@@ -36,7 +35,3 @@ The LesFurets partnership is a good example: I identified an opportunity, contac
 * Sponsorship Negotiation
 * Audience Growth
 * Analytics & Optimization
-
-## Channel
-
-[Visit the YouTube channel](YOUR_YOUTUBE_LINK)
